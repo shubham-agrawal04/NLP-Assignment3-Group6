@@ -66,7 +66,7 @@ Key objectives include:
 | **SST-2 Classification Model**: Fine-tuning and evaluation script for the SST-2 classification task.            | [Link to File](./nlp-assignment-3-group-6-classification%20(1).ipynb)                                                   |
 | **SQuAD Question-Answering Model (4,000 data points)**: Fine-tuning and evaluation script with 4,000 training and 1,000 testing data points. | [Link to File](./nlp-assignment-3-group-6-qa%20(1).ipynb)                                                   |
 | **SQuAD Question-Answering Model (24,000 data points)**: Fine-tuning and evaluation script with 24,000 training and 1,000 testing data points. | [Link to File](./nlp-assignment-3-group-6-qa%20(2).ipynb)                                                   |
-| **Assignment Report**: Results and Observation for the Assignment. | [Link to File]()                     |
+| **Assignment Report**: Results and Observation for the Assignment. | [Link to File](./NLP_Assignment_Report.pdf)                     |
 
 ## Contributors  
 - **Group 6 Members**:  
